@@ -5,6 +5,7 @@
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+    <img align="center" alt="python" src="https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=python&logoColor=white" />
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=Python&logoColor=F7DF1E" />
     <img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     <img align="center" alt="Postgres" src="https://img.shields.io/badge/Postgres-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
