@@ -7,7 +7,7 @@
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-248BBE?style=for-the-badge&logo=python&logoColor=white" />
     <img align="center" alt="aws" src="https://img.shields.io/badge/AWS-01188D?style=for-the-badge&logo=AWS&logoColor=white" />
-    <img align="center" alt="c#" src="https://img.shields.io/badge/c#-24D5CD?style=for-the-badge&logo=c#&logoColor=white" />
+    <img align="center" alt="postgres" src="https://img.shields.io/badge/postgres-24D5CD?style=for-the-badge&logo=postgres&logoColor=white" />
 </div></br>
 
 
