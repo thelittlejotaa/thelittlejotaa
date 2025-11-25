@@ -1,15 +1,17 @@
 ## Eae, seja bem vindo 👋
+## Onde me encontrar 🌐
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/João_Gabriel_Arandas_Soares/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/apns.jota/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/thelittlejotaa)
 
+### 🛠️ Tecnologias que uso / estudo
 <div style="display: inline_block"><br/>
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-248BBE?style=for-the-badge&logo=python&logoColor=white" />
     <img align="center" alt="aws" src="https://img.shields.io/badge/AWS-01188D?style=for-the-badge&logo=AWS&logoColor=white" />
     <img align="center" alt="postgres" src="https://img.shields.io/badge/postgres-24D5CD?style=for-the-badge&logo=postgres&logoColor=white" />
 </div></br>
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/debysouza/debysouza/output/github-contribution-grid-snake-dark.svg">
