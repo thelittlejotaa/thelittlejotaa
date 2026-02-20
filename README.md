@@ -1,4 +1,11 @@
 ## Olá, Seja Bem-Vindo👋 
+
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FAD02C&center=true&vCenter=true&width=550&lines=Estudante+Full+Stack;Apaixonado+Por+Matematica;Apaixonado+Por+Java;Apaixonado+Por+Musica;Apaixonado+Por+Robotica;Apaixonado+Por+Python;Futuro+Estudante+Backend;Programador+Equipe+AsasFTC;Sou+Escoteiro+Com+Orgulho;Quero+Conhecer+O+Mundo"
+  />
+</div>
+
 Sou Estudante da Firjan Senai Sesi-Petrópolis, curso Técnico Desenvolvimento de Sistemas | Competidor (FTC) e OBR – Trabalho com Python, C, Java, SQL e AWS, com experiência em Arduíno ✔️
 ## Onde me encontrar 🌐
 
