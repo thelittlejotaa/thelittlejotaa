@@ -2,7 +2,7 @@
 
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FAD02C&center=true&vCenter=true&width=550&lines=Estudante+Full+Stack;Apaixonado+Por+Matematica;Apaixonado+Por+Java;Apaixonado+Por+Musica;Apaixonado+Por+Robotica;Apaixonado+Por+Python;Futuro+Estudante+Backend;Programador+Equipe+AsasFTC;Sou+Escoteiro+Com+Orgulho;Quero+Conhecer+O+Mundo"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=993399&center=true&vCenter=true&width=550&lines=Estudante+Full+Stack;Matematica;Java;Resolução de problemas;Robotica/Mecatrônica;Python;Programador+Equipe+AsasFTC;Futuro+Full+Cycle"
   />
 </div>
 
