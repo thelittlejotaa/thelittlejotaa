@@ -13,7 +13,22 @@ Sou Estudante da Firjan Senai Sesi-Petrópolis, curso Técnico Desenvolvimento d
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/apns.jota/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/thelittlejotaa)
 
-### 🛠️ Tecnologias que uso / estudo
+### Tecnologias que uso / estudo
+🛠️  Capacidades técnicas em curso
+☁️ Cloud Services
+AWS
+
+💻 Linguagens Back-End
+Python Java
+
+🎨 Linguagens Front-End
+HTML5 CSS3
+
+🗄️ Banco de Dados
+PostgreSQL
+
+🧰 Ferramentas e Plataformas
+Git GitHub VSCode Figma FlutterFlow
 <div style="display: inline_block"><br/>
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-248BBE?style=for-the-badge&logo=python&logoColor=white" />
