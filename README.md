@@ -6,6 +6,17 @@
   />
 </div>
 
+## Sumário
+
+- [Sobre Mim](#sobre-mim)
+- [Tecnologias](#tecnologias)
+- [Formação](#formação)
+- [Contato](#contato)
+- [Estatísticas do GitHub](#estatísticas-do-github)
+
+  
+---
+
 Sou Estudante da Firjan Senai Sesi-Petrópolis, curso Técnico Desenvolvimento de Sistemas | Competidor (FTC) e OBR – Trabalho com Python, C, Java, SQL e AWS, com experiência em Arduíno ✔️
 ## Onde me encontrar 🌐
 
