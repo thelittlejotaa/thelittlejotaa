@@ -11,7 +11,7 @@
 - [Sobre Mim](#sobre-mim)
 - [Tecnologias](#tecnologias)
 - [Formação](#formação)
-- [Onde me encontrar](#Onde me encontrar)
+- [Onde me encontrar](#onde-me-encontrar)
 - [Estatísticas do GitHub](#estatísticas-do-github)
 
   
