@@ -11,13 +11,15 @@
 - [Sobre Mim](#sobre-mim)
 - [Tecnologias](#tecnologias)
 - [Formação](#formação)
-- [Contato](#contato)
+- [Onde me encontrar](#Onde me encontrar)
 - [Estatísticas do GitHub](#estatísticas-do-github)
 
   
 ---
 
-Sou Estudante da Firjan Senai Sesi-Petrópolis, curso Técnico Desenvolvimento de Sistemas | Competidor (FTC) e OBR – Trabalho com Python, C, Java, SQL e AWS, com experiência em Arduíno ✔️
+## Sobre Mim
+Sou Estudante da Firjan Senai Sesi-Petrópolis, curso Técnico Desenvolvimento de Sistemas | Competidor (FTC) e OBR 
+
 ## Onde me encontrar 🌐
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/João_Gabriel_Arandas_Soares/)
