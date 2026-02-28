@@ -2,7 +2,7 @@
 
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=993399&center=true&vCenter=true&width=550&lines=Estudante+Full+Stack;Matematica;Java;Resolução de problemas;Robotica/Mecatrônica;Python;Programador+Equipe+AsasFTC;Futuro+Full+Cycle"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=550&lines=Estudante+Full+Stack;Matematica;Java;Robotica;Programador+Equipe+AsasFTC;"
   />
 </div>
 
@@ -56,3 +56,6 @@ Sou Estudante da Firjan Senai Sesi-Petrópolis, curso Técnico Desenvolvimento d
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/apns.jota/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/thelittlejotaa)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghxstzn@gmail.com)
+
+----
+![Animação de Cobra](https://raw.githubusercontent.com/Nicolaspity/Nicolaspity/output/github-contribution-grid-snake.svg)
