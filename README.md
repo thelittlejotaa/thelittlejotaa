@@ -1,8 +1,8 @@
-## Olá, Seja Bem-Vindo👋 
+## Olá, Seja Bem-Vindo ao meu perfil👋 
 
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=550&lines=Estudante+Full+Stack;Matematica;Java;Robotica;Programador+Equipe+AsasFTC;"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=550&lines=Olá;Prazer;Me+conheça+melhor+em+Sobre+Mim;Estudante+Full+Stack;Matematica;Java;Robotica;Programador+Equipe+AsasFTC;"
   />
 </div>
 
