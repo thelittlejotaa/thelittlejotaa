@@ -48,6 +48,7 @@ Me chamo João Gabriel, nascido no Rio de Janeiro. Sempre gostei de computadores
 - Carreira Iniciantes FullStack  
 - Especialização/Formação em Liderança Técnica  
 - Primeiro agente automático com n8n – Inteligência Artificial
+- Fundamentos de nuvem da AWS Academy
 ---
 
 ## Onde me encontrar 
