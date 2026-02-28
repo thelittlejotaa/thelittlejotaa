@@ -2,7 +2,7 @@
 
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=550&lines=Olá;Prazer;Me+conheça+melhor+em+Sobre+Mim;Estudante+Full+Stack;Matematica;Java;Robotica;Programador+Equipe+AsasFTC;"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=550&lines=Ol%C3%A1;Prazer;Me+conhe%C3%A7a+melhor+em+Sobre+Mim;Estudante+Full+Stack;Matematica;Java;Robotica;Programador+Equipe+AsasFTC"
   />
 </div>
 
@@ -17,7 +17,7 @@
 ---
 
 ## Sobre Mim
-Sou Estudante da Firjan Senai Sesi-Petrópolis, curso Técnico Desenvolvimento de Sistemas | Competidor (FTC) e OBR 
+Me chamo João Gabriel, nascido no Rio de Janeiro. Sempre gostei de computadores, video games, matemática e qualquer tipo de competição, logo ingressei no mundo de Tecnologia. Hoje sou Estudante da Firjan Senai Sesi-Petrópolis, curso Técnico Desenvolvimento de Sistemas(2026), sou Competidor da equipe de robótica ASAS, e competi na FTC e OBR. Sonho, e espero, conseguir me realizar dentro da área que gosto me tornando um Desenvolvedor estilo FullCycle.
 
 ---
 
