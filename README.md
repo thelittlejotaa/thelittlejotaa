@@ -21,15 +21,6 @@ Sou Estudante da Firjan Senai Sesi-Petrópolis, curso Técnico Desenvolvimento d
 
 ---
 
-## Onde me encontrar 🌐
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/João_Gabriel_Arandas_Soares/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/apns.jota/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/thelittlejotaa)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghxstzn@gmail.com)
-
----
-
 ### Tecnologias
 🛠️  Capacidades técnicas em curso
 
@@ -44,15 +35,24 @@ Sou Estudante da Firjan Senai Sesi-Petrópolis, curso Técnico Desenvolvimento d
 ![Intellij](https://img.shields.io/badge/Intellij-F24E1E?style=for-the-badge\&logo=intellij\&logoColor=white)
 ![FlutterFlow](https://img.shields.io/badge/FlutterFlow-%23007ACC.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAArUlEQVQ4jc2SMQ6CQBBFXxQUSKCikpZ2Eio6iYjomI7iMgj+g1FJEkJxCdm42Fxe7SxWvtt7O7uzs7IJCMfBf0zQxv8EjHjCwAIg7YQBPV5qKlp6ZxAPkqkAkKqBt2CS0XwA5G6QLvDo+zAPqZq3GqB8Ac7kZyTgF5CJ5yKvD1mgJ8ArjW4nvstQAbqouZ5dzWBiP1lN1JwLk4KqT9m5KkPxQejUvtD6A5vMYS7C7snAAAAABJRU5ErkJggg==&logoColor=white)
 
-## Formação 
-• Curso Técnico em Desenvolvimento de Sistemas 2023 - 2025
-• Lógica de Programação e Algoritmos
-• Fundamentos de Banco de Dados
-• Desenvolvimento Web Básico
-• Análise e Projeto de Sistemas
-• 2° lugar na world skills etapa escolar em Desenvolvimento de aplicativos móveis
----ROCKEATSEAT---
-• Especialização/formação em Posicionamento nas redes sociais
-• Carreira Iniciantes FullStack
-• Especialização/formação em Liderança Técnica
-• Primeiro agente automático com n8n - Inteligência Artificial
+## Formação
+
+- Curso Técnico em Desenvolvimento de Sistemas  
+- Lógica de Programação e Algoritmos  
+- Fundamentos de Banco de Dados  
+- Desenvolvimento Web Básico  
+- Análise e Projeto de Sistemas  
+- 🥈 2º lugar na WorldSkills – etapa escolar (Desenvolvimento de Aplicativos Móveis)  
+- ---ROCKEATSEAT---  
+- Especialização/Formação em Posicionamento nas Redes Sociais  
+- Carreira Iniciantes FullStack  
+- Especialização/Formação em Liderança Técnica  
+- Primeiro agente automático com n8n – Inteligência Artificial
+---
+
+## Onde me encontrar 
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/João_Gabriel_Arandas_Soares/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/apns.jota/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/thelittlejotaa)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghxstzn@gmail.com)
