@@ -17,7 +17,7 @@
 ---
 
 ## Sobre Mim
-Me chamo João Gabriel, nascido no Rio de Janeiro. Sempre gostei de computadores, video games, matemática e qualquer tipo de competição, logo ingressei no mundo de Tecnologia. Hoje sou Estudante da Firjan Senai Sesi-Petrópolis, curso Técnico Desenvolvimento de Sistemas(2026), sou Competidor da equipe de robótica ASAS, e competi na FTC e OBR. Sonho, e espero, conseguir me realizar dentro da área que gosto me tornando um Desenvolvedor estilo FullCycle.
+Me chamo João Gabriel, nascido no Rio de Janeiro. Sempre gostei de computadores, video games, matemática e qualquer tipo de competição, logo ingressei no mundo de Tecnologia. Hoje sou Estudante da Firjan Senai Sesi-Petrópolis, curso Técnico Desenvolvimento de Sistemas(2026), sou Competidor da equipe de robótica ASAS, e competi na FTC e OBR. Sonho, e espero, conseguir me realizar dentro da área que gosto me tornando um Hacker Ético.
 
 ---
 
