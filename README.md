@@ -51,7 +51,7 @@ Me chamo João Gabriel, nascido no Rio de Janeiro. Sempre gostei de computadores
 - Fundamentos de nuvem da AWS Academy
 - Python pela AEB( Agência Espacial Brasileira ) 
 - técnico em Infraestrutura de redes
-- Curso dados pela STEMOS
+- Cursos dados pela STEMOS
 ---
 
 ## Onde me encontrar 
